@@ -7,4 +7,4 @@
 ## 3 주차 과제 (2020.06.11)
 - [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/JIBEOMSU/AI_academy/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 ## 4 주차 과제 (2020.06.13)
-- [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 ](https://colab.research.google.com/drive/1Fh-4b8nmAVxqpw6KBKXDuDEMgsIzyZ5P#scrollTo=0lfwat8eurKZ)
+- [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 ](https://github.com/JIBEOMSU/AI_academy/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
